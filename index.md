@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## yqq的博客
 
 You can use the [editor on GitHub](https://github.com/12yqq/12yqq.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
